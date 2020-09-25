@@ -14,15 +14,15 @@ public class ProjectileLine : MonoBehaviour {
 
     [Header("Set in Inspector")]
 
-    public float                minDist = 0.1f;
+    public float minDist = 0.1f;
 
 
 
-    private LineRenderer       line;
+    private LineRenderer line;
 
-    private GameObject         _poi;
+    private GameObject _poi;
 
-    private List<Vector3>      points;
+    private List<Vector3> points;
 
 
 

@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: 4e06f966823ec8141ac9203edb178237
+guid: b026c0c544bc90647bfb50476da6e2ef
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - cloudSphere: {fileID: 8196215611516208771, guid: 20f946609d0aa7340b51ebed3430d61f, type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
